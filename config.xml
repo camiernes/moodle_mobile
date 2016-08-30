@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "co.com.campusdigital.pre-icfes.moodlemobile"
         versionCode = "2010"
-        version   = "2.9">
-    <name>Moodle Mobile</name>
+        version   = "1.0">
+    <name>Virtual GIQ Pre-ICFES</name>
 
     <description>
-        Moodle Mobile official app
+        App modificada por Ing Camilo Agreda para acceso al campus digital de Pre-ICFES GIQ
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://campusdigital.com.co/pre-icfes" email="camiloagreda@giq.edu.co">
         Moodle Pty Ltd
     </author>
 
